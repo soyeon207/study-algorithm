@@ -21,7 +21,7 @@
 |03-4 슬라이딩 윈도우|12891번|DNA 비밀번호|[링크](https://www.acmicpc.net/problem/12891)|
 ||11003번|최솟값 찾기|[링크](https://www.acmicpc.net/problem/11003)|
 ||✨ 2096번|내려가기|[링크](https://www.acmicpc.net/problem/2096)|
-||2531번|회전 초밥|[링크](https://www.acmicpc.net/problem/2531)|
+||✨ 2531번|회전 초밥|[링크](https://www.acmicpc.net/problem/2531)|
 
 
 
