@@ -22,6 +22,11 @@
 ||11003번|최솟값 찾기|[링크](https://www.acmicpc.net/problem/11003)|
 ||✨ 2096번|내려가기|[링크](https://www.acmicpc.net/problem/2096)|
 ||✨ 2531번|회전 초밥|[링크](https://www.acmicpc.net/problem/2531)|
-
-
+|03-5 스택과 큐|1874번|스택 수열|[링크](https://www.acmicpc.net/problem/1874)|
+||17298번|오큰수|[링크](https://www.acmicpc.net/problem/17298)|
+||2164번|카드2|[링크](https://www.acmicpc.net/problem/2164)|
+||11286번|절댓값 힙|[링크](https://www.acmicpc.net/problem/11286)|
+||✨ 10773번|제로|[링크](https://www.acmicpc.net/problem/10773)|
+||✨ 10828번|스택|[링크](https://www.acmicpc.net/problem/10828)|
+||✨ 9012번|괄호|[링크](https://www.acmicpc.net/problem/9012)|
 
